@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![nofevid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nofevid&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![nofevid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nofevid)](https://github.com/anuraghazra/github-readme-stats)
+[![nofevid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nofevid)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nofevid&layout=compact&theme=algolia&hide=tex,Cmake,Batchfile,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
